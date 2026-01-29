@@ -2,4 +2,6 @@ COMMIT: Salvar o processo (saves de um jogo)
 CD: Mudar o diretório
 PWD: Saber qual diretório está usando
 MKDIR: Criar uma pasta nova
-CAT: Saber o que ta escrito no arquivo
+CAT: Exibe conteúdo do arquivo
+GIT INIT . : Pasta especial = Repositório de GIT
+RM - RF (pasta): Apagar a pasta

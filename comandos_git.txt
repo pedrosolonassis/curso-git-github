@@ -1,0 +1,3 @@
+GIT STATUS: Saber como está o diretório (se tem save)
+GIT ADD: Adicionar o que levar para o commit
+GIT COMMIT -M “nome” : Nomear o commit e criar o save
