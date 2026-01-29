@@ -1,7 +1,8 @@
-COMMIT: Salvar o processo (saves de um jogo)
-CD: Mudar o diretório
-PWD: Saber qual diretório está usando
-MKDIR: Criar uma pasta nova
-CAT: Exibe conteúdo do arquivo
-GIT INIT . : Pasta especial = Repositório de GIT
-RM - RF (pasta): Apagar a pasta
+- COMMIT: Salvar o processo (saves de um jogo)
+- LS: Listar todos os arquivos
+- CD: Mudar o diretório (cd /c/Users/felip/Desktop/Github) / cd .. = voltar uma casa do diretório
+- PWD: Saber qual diretório está usando
+- MKDIR: Criar uma pasta nova (mkdir Github)
+- CAT: Exibe conteúdo do arquivo
+- RM - RF (pasta): Apagar a pasta
+- NANO: Programa para editar textos (crtl + o para salvar / crtl + x para sair)
