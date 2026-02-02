@@ -6,3 +6,4 @@
 - CAT: Exibe conteúdo do arquivo
 - RM - RF (pasta): Apagar a pasta
 - NANO: Programa para editar textos (crtl + o para salvar / crtl + x para sair)
+- TOUCH: Criar um arquivo pelo terminal (README.md)

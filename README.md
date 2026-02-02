@@ -1,8 +1,8 @@
 # Curso TMW Git & GitHub
 
-Um curso para aprenderem a trabalhar com versionamento de código e repositórios remotos com GitHub.
+Um curso para aprender a trabalhar com versionamento de código e repositórios remotos com GitHub.
 
-Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
+Além disso, trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 # Fluxo de Trabalho Git loca
 1. git checkout -b
