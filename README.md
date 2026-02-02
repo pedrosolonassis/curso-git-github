@@ -4,7 +4,7 @@ Um curso para aprender a trabalhar com versionamento de código e repositórios 
 
 Além disso, trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
-# Fluxo de Trabalho Git loca
+# Fluxo de Trabalho Git local
 1. git checkout -b
 2. cria ou atualiza arquivos
 3. git status
