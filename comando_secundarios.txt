@@ -1,3 +1,5 @@
-- **GIT CHECKOUT -B: Cria uma branch (ramificação) / **GIT CHECKOUT MAIN:** Retoma para main
-- **GIT BRANCH:** Mostra todas as branches do projeto e atual que você está trabalhando
-- **GIT MERGE:** Trazer as informações da secundária para main
+- **GIT CHECKOUT -B:** Cria uma branch (ramificação) / **GIT CHECKOUT MAIN:** Retoma para main
+- **GIT SWITCH:** Retornar a branch (git switch -c : cria uma nova branch e ja vai pra ela)
+- **GIT BRANCH:** Mostra todas as branches do projeto e atual que você está trabalhando (-m: para renomear)
+- **GIT MERGE:** Trazer as alterações do arquivo da secundária para main
+- **GIT BRANCH -D:** Excluir uma branchn

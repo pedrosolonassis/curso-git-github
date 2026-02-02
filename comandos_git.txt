@@ -4,3 +4,7 @@ GIT COMMIT -M “nome” : Nomear o commit e criar o save
 - GIT LOG: Mostra o histórico de commit
 - GIT INIT: Novo repositório (Pasta especial = Repositório de GIT)
 - GIT DIFF: Mostra as novas alterações no arquivo
+⇒ **GIT DIFF HEAD HEAD~1 (**Head significa o commit mais recente, e o ~1 equivale ao commit anterior, comparando ambos)
+- **GIT RESET:** Voltar e selecionar outros arquivo pro commit
+- **GIT SHOW numero:** Informações detalhadas do ultimo commit (log mostra todos os commits)
+- **GIT REVERT:** Restabelece a versão anterior e cria um novo commit
