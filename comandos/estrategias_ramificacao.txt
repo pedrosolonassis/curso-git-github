@@ -1,0 +1,10 @@
+- Trunk-Based Development (TBD)
+⇒ Branches Curtas
+⇒ Integração Contínua
+⇒ Feature Flags: Se uma funcionalidade ainda não está pronta, mas o código já precisa ir para a `main`, você usa uma "chave" no código (Feature Flag) para mantê-la escondida do usuário final.
+⇒ Merge: Simples e frequente
+
+- Git Flow
+⇒ Branches longas
+⇒ Baseado em releases agendadas
+⇒ Complexo e raro
