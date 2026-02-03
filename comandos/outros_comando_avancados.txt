@@ -1,0 +1,7 @@
+- GIT CHERRY-PICK: Escolha um commit específico de uma branch e o aplique em outra, sem precisar fazer o merge de toda a branch. Imagine que você corrigiu um bug crítico na `develop`, mas precisa dessa mesma correção agora na `main`
+- GIT BISECT (detetive): Busca binária para encontrar exatamente qual commit introduziu um bug no seu código. (git bisect start, git bisect bad, git bisect good).
+- GIT FILTER-REPO (alteção destrutiva): Ferramenta para limpeza profunda. Reescrever o histórico em larga escala. (instalar com pip install)
+- GIT REFLOG: Registra cada vez que o `HEAD` mudou de lugar (troca de branch, reset, commit, rebase)
+- GIT WORKTREES: Permite que você tenha várias branches do mesmo repositório "checadas" (abertas) em pastas diferentes simultaneamente.
+- GIT SUBMODULES: Um repositório Git dentro de outro repositório Git (**git submodule update --init** para rodar)
+- GIT LFS (large file storage): Substitui arquivo grande por um mais leve.
