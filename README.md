@@ -1,4 +1,4 @@
-# Curso TMW Git & GitHub
+# Curso Datacamp e TMW - Git & GitHub
 
 Um curso para aprender a trabalhar com versionamento de código e repositórios remotos com GitHub.
 
