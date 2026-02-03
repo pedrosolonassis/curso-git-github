@@ -1,7 +1,7 @@
-- **GIT CHECKOUT -B:** Cria uma branch (ramificação) / **GIT CHECKOUT MAIN:** Retoma para main
-- **GIT SWITCH:** Retornar a branch (git switch -c : cria uma nova branch e ja vai pra ela)
-- **GIT BRANCH:** Mostra todas as branches do projeto e atual que você está trabalhando (-m: para renomear)
-- **GIT MERGE:** Trazer as alterações do arquivo da secundária para main
-- **GIT BRANCH -D:** Excluir uma branch
-- **GIT PUSH ORIGIN NOME DA BRANCH:** Sincronizar as alterações que aconteceram na branch main no local para o remoto (github)
-- **GIT PULL ORIGIN NOME DA BRANCH:** Sincronizar as alteração que aconteceram no remoto (github) para o local
+- GIT CHECKOUT -B: Cria uma branch (ramificação) / **GIT CHECKOUT MAIN:** Retoma para main
+- GIT SWITCH: Retornar a branch (git switch -c : cria uma nova branch e ja vai pra ela)
+- GIT BRANCH: Mostra todas as branches do projeto e atual que você está trabalhando (-m: para renomear)
+- GIT MERGE: Trazer as alterações do arquivo da secundária para main
+- GIT BRANCH -D: Excluir uma branch
+- GIT PUSH ORIGIN NOME DA BRANCH: Sincronizar as alterações que aconteceram na branch main no local para o remoto (github)
+- GIT PULL ORIGIN NOME DA BRANCH: Sincronizar as alteração que aconteceram no remoto (github) para o local

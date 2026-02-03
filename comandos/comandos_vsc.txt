@@ -1,0 +1,6 @@
+- GIT FETCH: Reconhecer a branch develop, pega os commits do remoto para o local
+- GIT CHECKOUT DEVELOP: Manter uma secundária develop para testes
+- PADRÕES DE BRANCHES: https://medium.com/prolog-app/nossos-padr%C3%B5es-de-nomenclatura-para-branches-e-commits-fade8fd17106
+- PADRÕES DE COMMIT: https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657
+- GIT IGNORE (.gitignore): Ignorar um arquivo, só precisa colocar o nome do arquivo no terminal. Para ignorar um certo tipo de arquivo, pode botar “*.tipo” (Ex: *.pptx)
+- GIT KEEP (.gitkeep): Mostra os arquivos que eram pra ser ocultados do .gitignore (apenas informa que há outra pasta dentro do repositório).
