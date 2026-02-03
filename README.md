@@ -2,7 +2,7 @@
 
 Um curso para aprender a trabalhar com versionamento de código e repositórios remotos com GitHub.
 
-Além disso, trabalhar com GitFlow ao final do curso e Visual Studio Code.
+Além disso, trabalhar com GitFlow e Visual Studio Code.
 
 # Fluxo de Trabalho Git local
 1. git checkout -b
@@ -42,3 +42,8 @@ Além disso, trabalhar com GitFlow ao final do curso e Visual Studio Code.
 11. excluir <nova_branch> origin
 12. git checkout main
 13. git branch -D <nova_branch>
+
+Após o fluxo de trabalho, houve o aprofundamento em tópicos mais avançados que conseguem, de forma efetiva, solucionar questões complexas, sendo eles:
+1. Diferentes tipos de Merge (fast-forward, three-way, squash, octopus e rebase)
+2. Git cherry-pick, git bisect, git filter-repo, git reflog, git worktrees, git submodules e git lfs
+3. Estratégia de Ramificação Trunk-Based Developmente (TBD)
