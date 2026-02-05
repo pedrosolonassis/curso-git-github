@@ -46,7 +46,7 @@ Um curso para aprender a trabalhar com versionamento de código, repositórios r
 2. Git cherry-pick, git bisect, git filter-repo, git reflog, git worktrees, git submodules e git lfs.
 3. Estratégia de Ramificação Trunk-Based Developmente (TBD).
 
-# 🧠 A Estrutura do Aprendizado
+# 🧠 Estrutura do Aprendizado
 - Teoria e Resumos: Centralizados no Notion, onde estruturei mapas mentais e documentação detalhada sobre estados do Git, arquitetura de sistemas distribuídos e boas práticas.
 
 - Prática Intensiva: Exercícios focados em resolução de conflitos, manipulação de histórico e automação.
