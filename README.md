@@ -1,8 +1,6 @@
-# Curso Datacamp e TMW - Git & GitHub
+# 🚀 Mastering Git & GitHub: Curso Datacamp e TMW
 
-Um curso para aprender a trabalhar com versionamento de código e repositórios remotos com GitHub.
-
-Além disso, trabalhar com GitFlow e Visual Studio Code.
+Um curso para aprender a trabalhar com versionamento de código, repositórios remotos com GitHub, GitFlow e Visual Studio Code. Este repositório é o registro da minha jornada de especialização em controle de versão, combinando o rigor teórico do DataCamp com a abordagem prática do Teo Me Why.
 
 # Fluxo de Trabalho Git local
 1. git checkout -b
@@ -43,7 +41,28 @@ Além disso, trabalhar com GitFlow e Visual Studio Code.
 12. git checkout main
 13. git branch -D <nova_branch>
 
-Após o fluxo de trabalho, houve o aprofundamento em tópicos mais avançados que conseguem, de forma efetiva, solucionar questões complexas, sendo eles:
-1. Diferentes tipos de Merge (fast-forward, three-way, squash, octopus e rebase)
-2. Git cherry-pick, git bisect, git filter-repo, git reflog, git worktrees, git submodules e git lfs
-3. Estratégia de Ramificação Trunk-Based Developmente (TBD)
+# Aprofundamento em tópicos mais avançados
+1. Diferentes tipos de Merge (fast-forward, three-way, squash, octopus e rebase).
+2. Git cherry-pick, git bisect, git filter-repo, git reflog, git worktrees, git submodules e git lfs.
+3. Estratégia de Ramificação Trunk-Based Developmente (TBD).
+
+# 🧠 A Estrutura do Aprendizado
+- Teoria e Resumos: Centralizados no Notion, onde estruturei mapas mentais e documentação detalhada sobre estados do Git, arquitetura de sistemas distribuídos e boas práticas.
+
+- Prática Intensiva: Exercícios focados em resolução de conflitos, manipulação de histórico e automação.
+
+# 🛠️ O que há no repositório?
+O projeto está organizado para facilitar a consulta rápida:
+
+📁 apresentacao/: Materiais de introdução e conceitos iniciais.
+
+📁 arquivos/: Laboratórios práticos e exercícios de versionamento.
+
+📁 comandos/: Um guia de referência (cheatsheet) que vai do git init ao git rebase e comandos avançados.
+
+# 🔬 Conexão com Análise de Dados
+Como estudante de Relações Internacionais e aspirante a Analista de Dados, entendo que o Git é o pilar da reprodutibilidade. Este repositório serve como base para meus projetos futuros em R, Python e SQL, garantindo que cada análise seja auditável e colaborativa.
+
+# 🤝 Contato
+
+Linkedin: www.linkedin.com/in/pedrosolonassis
